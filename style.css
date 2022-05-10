@@ -91,7 +91,8 @@ a:hover{
 }
 
 .btn:hover{
-    transform: scale(1.05);
+    background-color: #E5E7EB;
+    color: #3882F6;
 }
 
 .right-image{
@@ -129,6 +130,10 @@ a:hover{
     width: 230px;
     height: 230px;
     border-radius: 8px;
+}
+
+.image-container-item p{
+    text-align: center;
 }
 
 .main-second{
@@ -181,7 +186,8 @@ a:hover{
 }
 
 .main-third-container-btn button:hover{
-    transform: scale(1.05);
+    background-color: #fff;
+    color: #3882F6;
 }
 
 .footer-container{
