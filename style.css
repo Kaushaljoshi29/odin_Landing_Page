@@ -47,10 +47,10 @@ a {
 .nav-items:hover,
 a:hover{
     /* transform: scale(1.05); */
-    background-color: #E5E7EB;
-    color: #1F2937;
-    padding: 4px 4px;
-    border-radius: 5px;
+    /* background-color: #E5E7EB; */
+    color: #F9FAF8;
+    /* padding: 4px 4px; */
+    /* border-radius: 5px; */
 }
 
 
